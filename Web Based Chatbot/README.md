@@ -17,7 +17,7 @@ To set up the environment, follow these steps:
 ### 1. Clone the Repository
 First, clone the repository from GitHub:
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/ASD-Are/GenAI/tree/main/Web%20Based%20Chatbot)
+git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 ```
 
