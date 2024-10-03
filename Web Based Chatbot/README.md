@@ -103,5 +103,6 @@ Add a screenshot here showing the execution of the app, displaying the interacti
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Appendix
-(Google Slide)[https://docs.google.com/presentation/d/1mcfiuwxxV6Ystplep2WQRNZoF3aNHshuFCRu5qqmF_k/edit#slide=id.p]
-(Pdf reference with screenshots)[https://github.com/ASD-Are/GenAI/blob/main/Web%20Based%20Chatbot/Detailed%20Screenshot%20Guide%20with%20Errors%20Handled.pdf]
+!(Google Slide)[https://docs.google.com/presentation/d/1mcfiuwxxV6Ystplep2WQRNZoF3aNHshuFCRu5qqmF_k/edit#slide=id.p]
+
+!(Pdf reference with screenshots)[https://github.com/ASD-Are/GenAI/blob/main/Web%20Based%20Chatbot/Detailed%20Screenshot%20Guide%20with%20Errors%20Handled.pdf]
